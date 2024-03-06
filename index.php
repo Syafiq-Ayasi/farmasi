@@ -213,7 +213,7 @@ if($_SESSION['admin'] || $_SESSION['petugas'] || $_SESSION['dokter'] || $_SESSIO
               <li class="nav-item">
                 <a href="?page=akun" class="nav-link">
                   <i class="nav-icon fas fa-caret-right"></i>
-                  <p>Data Akun Pasien</p>
+                  <p>Data Akun Pasien New</p>
                 </a>
               </li>
             </ul>
