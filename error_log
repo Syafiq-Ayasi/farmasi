@@ -1,0 +1,387 @@
+[03-Jan-2024 13:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[04-Jan-2024 10:38:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 10:40:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 10:41:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 10:41:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 10:41:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 10:42:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 15:32:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 15:32:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 15:32:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 15:32:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[04-Jan-2024 15:32:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 15:58:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:19:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:20:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:23:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:26:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:27:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:28:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:28:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:28:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:35:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:35:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:35:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:39:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:39:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:39:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 20:47:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:01:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:01:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:01:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:04:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:06:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:09:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:10:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:10:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:10:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:10:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:10:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:11:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:11:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:11:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:11:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:11:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:13:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:14:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:14:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 14:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 21:15:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 14:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 21:30:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 14:31:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:42:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 14:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/login.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/login.php on line 130
+[06-Jan-2024 21:43:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:43:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:44:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/index.php on line 92
+[06-Jan-2024 21:47:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/antrian/tambah.php:170
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(481): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/antrian/tambah.php on line 170
+[06-Jan-2024 21:48:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/obat/obat.php:74
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(411): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/obat/obat.php on line 74
+[06-Jan-2024 21:48:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/diagnosa/diagnosa.php:67
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(425): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/diagnosa/diagnosa.php on line 67
+[06-Jan-2024 21:51:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/diagnosa/diagnosa.php:67
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(425): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/diagnosa/diagnosa.php on line 67
+[06-Jan-2024 21:51:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/diagnosa/diagnosa.php:67
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(425): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/diagnosa/diagnosa.php on line 67
+[06-Jan-2024 21:53:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/obat/obat.php:74
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(411): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/obat/obat.php on line 74
+[06-Jan-2024 22:03:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/tambahstok/tambahstok.php:72
+Stack trace:
+#0 /home/appg4189/public_html/demo/index.php(542): include()
+#1 {main}
+  thrown in /home/appg4189/public_html/demo/page/tambahstok/tambahstok.php on line 72

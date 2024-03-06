@@ -1,0 +1,8 @@
+[06-Jan-2024 14:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/laprm/cetak.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/page/laprm/cetak.php on line 35
+[06-Jan-2024 14:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/appg4189/public_html/demo/page/laprm/cetak.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appg4189/public_html/demo/page/laprm/cetak.php on line 35
